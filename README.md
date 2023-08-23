@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my page!</h1> 
-<h3 align="center">The researcher in the past - data analyst in the future.</h3>
+<h1 align="center">Приветствую на моей странице!</h1> 
+<h3 align="center">Аналитик</h3>
 
 
 <p align="center">
